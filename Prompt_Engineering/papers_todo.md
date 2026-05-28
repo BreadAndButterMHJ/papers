@@ -1,0 +1,9 @@
+- 《Language Models are Few-Shot Learners》
+- 《The Prompt Report》
+- 《Chain-of-Thought Prompting Elicits Reasoning in Large Language Models》
+- 《Large Language Models are Zero-Shot Reasoners》
+- 《Tree of Thoughts: Deliberate Problem Solving with Large Language Models》
+- 《ReAct: Synergizing Reasoning and Acting in Language Models》
+- 《Automatic Prompt Engineer 》
+- 《Many-Shot In-Context Learning》
+- 《System 2 Attention (S2A)》
