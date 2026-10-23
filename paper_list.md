@@ -65,7 +65,7 @@
 ---
 
 ## 🎯 推荐系统与点击率预估 (Recommender Systems)
-*本地目录：`Recommender_Systems/` (共 22 篇)*
+*本地目录：`Recommender_Systems/` (共 28 篇)*
 
 * [ ] [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://www.google.com/search?q=Recommender_Systems/Behavior%2520Sequence%2520Transformer%2520for%2520E-commerce%2520Recommendation%2520in%2520Alibaba.pdf) — *BST*
 * [ ] [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://www.google.com/search?q=Recommender_Systems/BERT4Rec%2520-%2520Sequential%2520Recommendation%2520with%2520Bidirectional%2520Encoder%2520Representations%2520from%2520Transformer.pdf)
@@ -78,16 +78,22 @@
 * [ ] [DeepFM: A Factorization-Machine based Neural Network for CTR Prediction](https://www.google.com/search?q=Recommender_Systems/DeepFM%2520-%2520A%2520Factorization-Machine%2520based%2520Neural%2520Network%2520for%2520CTR%2520Prediction.pdf)
 * [ ] [Entire Space Multi-Task Model: Estimating Post-Click Conversion Rate](https://www.google.com/search?q=Recommender_Systems/Entire%2520Space%2520Multi-Task%2520Model%2520-%2520An%2520Effective%2520Approach%2520for%2520Estimating%2520Post-Click%2520Conversion%2520Rate.pdf) — *ESMM 经典多目标*
 * [ ] [Factorization Machines](https://www.google.com/search?q=Recommender_Systems/Factorization%2520Machines.pdf) — *FM 奠基*
+* [ ] [FiBiNET: Combining Feature Importance and Bilinear feature Interaction for Click-Through Rate Prediction](https://www.google.com/search?q=Recommender_Systems/FiBiNET%2520-%2520Combining%2520Feature%2520Importance%2520and%2520Bilinear%2520feature%2520Interaction%2520for%2520Click-Through%2520Rate%2520Prediction.pdf) — *SENET 特征重要性与双线性交互 (RecSys 2019)*
+* [ ] [FinalMLP: An Enhanced Two-Stream MLP Model for CTR Prediction](https://www.google.com/search?q=Recommender_Systems/FinalMLP%2520-%2520An%2520Enhanced%2520Two-Stream%2520MLP%2520Model%2520for%2520CTR%2520Prediction.pdf) — *双流 MLP、特征门控与双线性融合 (AAAI 2023)*
 * [ ] [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data (DSSM)](https://www.google.com/search?q=Recommender_Systems/Learning%2520Deep%2520Structured%2520Semantic%2520Models%2520for%2520Web%2520Search%2520using%2520Clickthrough%2520Data.pdf) — *经典双塔语义召回*
 * [ ] [LightGBM: A Highly Efficient Gradient Boosting Decision Tree](https://www.google.com/search?q=Recommender_Systems/LightGBM%2520-%2520A%2520Highly%2520Efficient%2520Gradient%2520Boosting%2520Decision%2520Tree.pdf)
+* [ ] [Mixture of Virtual-Kernel Experts for Multi-Objective User Profile Modeling](https://www.google.com/search?q=Recommender_Systems/Mixture%2520of%2520Virtual-Kernel%2520Experts%2520for%2520Multi-Objective%2520User%2520Profile%2520Modeling.pdf) — *MVKE 多目标用户画像建模*
 * [ ] [Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts (MMoE)](https://www.google.com/search?q=Recommender_Systems/Modeling%2520Task%2520Relationships%2520in%2520Multi-task%2520Learning%2520with%2520Multi-gate%2520Mixture-of-Experts.pdf) — *经典多任务 MMoE*
 * [ ] [OneRec: Unifying Retrieve and Rank with Generative Recommender and Preference Alignment](https://www.google.com/search?q=Recommender_Systems/OneRec%2520-%2520Unifying%2520Retrieve%2520and%2520Rank%2520with%2520Generative%2520Recommender%2520and%2520Preference%2520Alignment.pdf)
+* [ ] [OneTrans: Unified Feature Interaction and Sequence Modeling with One Transformer in Industrial Recommender](https://www.google.com/search?q=Recommender_Systems/OneTrans%2520-%2520Unified%2520Feature%2520Interaction%2520and%2520Sequence%2520Modeling%2520with%2520One%2520Transformer%2520in%2520Industrial%2520Recommender.pdf) — *统一特征交互与序列建模*
 * [ ] [Practical Lessons from Predicting Clicks on Ads at Facebook](https://www.google.com/search?q=Recommender_Systems/Practical%2520Lessons%2520from%2520Predicting%2520Clicks%2520on%2520Ads%2520at%2520Facebook.pdf) — *GBDT + LR 经典实践*
 * [ ] [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning Model](https://www.google.com/search?q=Recommender_Systems/Progressive%2520Layered%2520Extraction%2520(PLE)%2520-%2520A%2520Novel%2520Multi-Task%2520Learning%2520(MTL)%2520Model%2520for%2520Personalized%2520Recommendations.pdf) — *腾讯多任务 PLE*
+* [ ] [RankMixer: Scaling Up Ranking Models in Industrial Recommenders](https://www.google.com/search?q=Recommender_Systems/RankMixer%2520-%2520Scaling%2520Up%2520Ranking%2520Models%2520in%2520Industrial%2520Recommenders.pdf) — *Token Mixing 与工业推荐模型扩展 (2025)*
 * [ ] [Sampling-Bias-Corrected Neural Modeling for Large Corpus Item Recommendations](https://www.google.com/search?q=Recommender_Systems/Sampling-Bias-Corrected%2520Neural%2520Modeling%2520for%2520Large%2520Corpus%2520Item%2520Recommendations.pdf) — *流式采样偏差纠正*
 * [ ] [Search-based User Interest Modeling with Lifelong Sequential Behavior Data (SIM)](https://www.google.com/search?q=Recommender_Systems/Search-based%2520User%2520Interest%2520Modeling%2520with%2520Lifelong%2520Sequential%2520Behavior%2520Data%2520for%2520Click-Through%2520Rate%2520Prediction.pdf) — *超长终身行为序列建模*
 * [ ] [Self-Attentive Sequential Recommendation (SASRec)](https://www.google.com/search?q=Recommender_Systems/Self-Attentive%2520Sequential%2520Recommendation.pdf)
 * [ ] [Wide & Deep Learning for Recommender Systems](https://www.google.com/search?q=Recommender_Systems/Wide%2520%26%2520Deep%2520Learning%2520for%2520Recommender%2520Systems.pdf) — *谷歌奠基之作*
+* [ ] [Wukong: Towards a Scaling Law for Large-Scale Recommendation](https://www.google.com/search?q=Recommender_Systems/Wukong%2520-%2520Towards%2520a%2520Scaling%2520Law%2520for%2520Large-Scale%2520Recommendation.pdf) — *堆叠 FM、高阶特征交叉与 Scaling Law (ICML 2024)*
 * [ ] [XGBoost: A Scalable Tree Boosting System](https://www.google.com/search?q=Recommender_Systems/XGBoost%2520-%2520A%2520Scalable%2520Tree%2520Boosting%2520System.pdf)
 * 💡 [推荐系统算法模型阅读与选读指南](Recommender_Systems/推荐模型阅读指南.md) — *系统化导读备忘 📌*
 
