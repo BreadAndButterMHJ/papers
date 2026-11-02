@@ -65,10 +65,11 @@
 ---
 
 ## 🎯 推荐系统与点击率预估 (Recommender Systems)
-*本地目录：`Recommender_Systems/` (共 28 篇)*
+*本地目录：`Recommender_Systems/` (共 29 篇)*
 
 * [ ] [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://www.google.com/search?q=Recommender_Systems/Behavior%2520Sequence%2520Transformer%2520for%2520E-commerce%2520Recommendation%2520in%2520Alibaba.pdf) — *BST*
 * [ ] [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://www.google.com/search?q=Recommender_Systems/BERT4Rec%2520-%2520Sequential%2520Recommendation%2520with%2520Bidirectional%2520Encoder%2520Representations%2520from%2520Transformer.pdf)
+* [ ] [Bid Optimization by Multivariable Control in Display Advertising](https://www.google.com/search?q=Recommender_Systems/Bid%2520Optimization%2520by%2520Multivariable%2520Control%2520in%2520Display%2520Advertising.pdf) — *展示广告多变量控制出价 (KDD 2019)*
 * [ ] [CatBoost: Unbiased Boosting with Categorical Features](https://www.google.com/search?q=Recommender_Systems/CatBoost%2520-%2520Unbiased%2520Boosting%2520with%2520Categorical%2520Features.pdf)
 * [ ] [Deep & Cross Network for Ad Click Predictions](https://www.google.com/search?q=Recommender_Systems/Deep%2520%26%2520Cross%2520Network%2520for%2520Ad%2520Click%2520Predictions.pdf) — *DCN*
 * [ ] [Deep Interest Evolution Network for Click-Through Rate Prediction](https://www.google.com/search?q=Recommender_Systems/Deep%2520Interest%2520Evolution%2520Network%2520for%2520Click-Through%2520Rate%2520Prediction.pdf) — *DIEN*
